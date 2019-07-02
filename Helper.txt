@@ -1,0 +1,11 @@
+Data set Url: https://www.kaggle.com/ronitf/heart-disease-uci
+
+Math Reference: https://www.mathsisfun.com/data/standard-normal-distribution.html
+                
+                https://medium.com/deep-math-machine-learning-ai/chapter-3-support-vector-machine-with-math-47d6193c82be
+
+
+                 https://shuzhanfan.github.io/2018/05/understanding-mathematics-behind-support-vector-machines/
+
+
+https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
